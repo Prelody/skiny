@@ -1,1 +1,8 @@
-# skiny
+# [boop](https://github.com/Prelody/skiny/raw/main/Exports/boop.osk)
+![boop](Screenshots/boop.jpg)
+# [default](https://github.com/Prelody/skiny/raw/main/Exports/default.osk)
+![default](Screenshots/default.jpg)
+# [sumigarden](https://github.com/Prelody/skiny/raw/main/Exports/sumigarden.osk)
+![sumigarden](Screenshots/sumigarden.jpg)
+# [tekkito](https://github.com/Prelody/skiny/raw/main/Exports/tekkito.osk)
+![tekkito](Screenshots/tekkito.jpg)
