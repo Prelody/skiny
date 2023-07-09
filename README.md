@@ -1,5 +1,5 @@
 # [aristia](https://github.com/Prelody/skiny/raw/main/Exports/aristia.osk)
-![sumigarden](Screenshots/aristia.jpg)
+![aristia](Screenshots/aristia.jpg)
 # [boop](https://github.com/Prelody/skiny/raw/main/Exports/boop.osk)
 ![boop](Screenshots/boop.jpg)
 # [default](https://github.com/Prelody/skiny/raw/main/Exports/default.osk)
